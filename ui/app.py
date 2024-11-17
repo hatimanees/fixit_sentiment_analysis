@@ -4,7 +4,7 @@ import requests
 from PyPDF2 import PdfReader
 import io
 
-API_URL = "http://127.0.0.1:5000/upload"
+API_URL = "https://fixit-sentiment-analysis.onrender.com/upload"
 
 
 def main():
