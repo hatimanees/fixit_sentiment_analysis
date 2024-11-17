@@ -5,3 +5,4 @@ gunicorn
 requests
 PyPDF2
 flask_cors
+torch
